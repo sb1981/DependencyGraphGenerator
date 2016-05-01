@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphvizExporter", "Graphvi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVExporter", "CSVExporter\CSVExporter.csproj", "{F3BA4742-F7CF-4E1B-876A-3A0586A447D7}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupDGG", "SetupDGG\SetupDGG.vdproj", "{B17B8F05-BED0-4184-AEC6-C0DDCB81A634}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +50,8 @@ Global
 		{F3BA4742-F7CF-4E1B-876A-3A0586A447D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3BA4742-F7CF-4E1B-876A-3A0586A447D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3BA4742-F7CF-4E1B-876A-3A0586A447D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17B8F05-BED0-4184-AEC6-C0DDCB81A634}.Debug|Any CPU.ActiveCfg = Debug
+		{B17B8F05-BED0-4184-AEC6-C0DDCB81A634}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
