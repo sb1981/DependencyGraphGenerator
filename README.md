@@ -1,5 +1,5 @@
 # Dependency Graph Generator
-A tool to analyze the dependencies of different files.
+A tool to analyze the dependencies of different files, written in Visual Studio 2015.
 
 Usage:
 Should be more or less self-explaining. Simply open a file to start the (recursive) analyzation, afterwards you can export to different file formats.
@@ -19,4 +19,5 @@ Exporters:
 * Graphviz
 
 ## Bugs
-It could be possible, that the plugin-dlls are not put in the right directories, so you have to do this manually.
+- It could be possible, that the plugin-dlls are not put in the right directories, so you have to do this manually.
+- To create the Setup-Project, you may need to install 'Microsoft Visual Studio 2015 Installer Projects' https://visualstudiogallery.msdn.microsoft.com/f1cc3f3e-c300-40a7-8797-c509fb8933b9
